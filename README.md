@@ -1,3 +1,3 @@
 # Auto Me Bot Testing
 
-A repo to test the Auto Me Bot App
+A  Awesome repo to test the Auto Me Bot App
